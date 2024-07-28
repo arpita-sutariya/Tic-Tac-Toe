@@ -46,7 +46,7 @@ body{
 
 }
 
-#New-btn{
+#new-btn{
     padding:1rem;
     font-size:1.25rem;
     background-color:#191913;
@@ -67,8 +67,5 @@ body{
     align-items: center;
     flex-direction: column;
     gap:4rem;
-}
+} 
 
-.hide{
-    display:none;
-}
