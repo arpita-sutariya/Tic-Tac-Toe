@@ -18,7 +18,6 @@ const winPatterns = [
 ];
 
 const resetGame = () => {
-    debugger;
     turnO = true; 
     enableBoxes();
     msgContainer.classList.add("hide"); 
